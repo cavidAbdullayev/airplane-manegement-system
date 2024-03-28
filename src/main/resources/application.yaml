@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    username: root
+    url: jdbc:mysql://localhost:3306/airplane_management_system
+    password: e9fx8ud1zegr
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
